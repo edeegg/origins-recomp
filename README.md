@@ -2,7 +2,7 @@
   <img src="icon.png" width="96" alt="icon">
 </p>
 
-# Rayman Origins Recomp
+# Origins Recomp
 
 Rayman Origins (Xbox 360) recompiled to run natively on Windows and Android, instead of through a full emulator.
 
