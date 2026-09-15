@@ -9,7 +9,8 @@ Rayman Origins (Xbox 360) recompiled to run natively on Android, instead of thro
 ## Requirements
 
 - Your own legally obtained copy of Rayman Origins - no game files are included here.
-- Windows, or an Android phone with Vulkan support (Snapdragon 855 or newer recommended).
+- Place the game's ".xex" file inside the "game/" folder.
+- Android phone with Vulkan support (Snapdragon 855 or newer recommended).
 
 ## Status
 
