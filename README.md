@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="icon.png" width="96" alt="icon">
+  <img src="icon.png" width="140" alt="icon">
 </p>
 
 # Origins Recomp
 
-Rayman Origins (Xbox 360) recompiled to run natively on Windows and Android, instead of through a full emulator.
+Rayman Origins (Xbox 360) recompiled to run natively on Android, instead of through a full emulator.
 
 ## Requirements
 
